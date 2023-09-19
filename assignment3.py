@@ -13,4 +13,4 @@ This is the first sentence.
 This is the second sentence.
 """
 
-print("This is the first sentence. This is the second sentence.")
+print("This is the first sentence.\n This is the second sentence. \n I am super cool and amazing at coding")
